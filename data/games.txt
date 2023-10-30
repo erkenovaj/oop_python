@@ -1,0 +1,11 @@
+#format: name, rules, prep_method, pack_method, genre
+Взрывные котята: Лающие котята; https://hobbygames.ru/download/rules/Lajushhie_kotjata_Rules.pdf; в правилах; коробка; азартные
+Манчкин; https://hobbygames.ru/download/rules/m_color_rules.pdf; в правилах; коробка; приключение
+Каркассон; https://hobbygames.ru/download/rules/Carcassonne2019_Rules.pdf; в правилах; коробка; приключение
+Бункер; https://hobbygames.ru/download/rules/bunker_rules.pdf; в правилах; коробка; детектив
+Catan: Колонизаторы; https://hobbygames.ru/download/rules/CATAN_Base_rules_2016_web.pdf; в правилах; коробка; фэнтези
+Бэнг! Великое ограбление поезда; https://hobbygames.ru/download/rules/Bang_Ograblenie_poezda_Rules.pdf; в правилах; коробка; детектив
+Ticket to Ride: Европа; https://hobbygames.ru/download/rules/T2RE_rules_new.pdf; в правилах; коробка; детектив
+Карточная игра: Махинации сквозь время; https://hobbygames.ru/download/rules/Mahinacii_Rules.pdf; в правилах; коробка; азартные
+Сумерки империи. Четвёртое издание; https://hobbygames.ru/download/rules/TI07_Learn_to_Play_RU_2021_web-min.pdf; в правилах; коробка; фэнтези
+Замес: Юбилейный; https://hobbygames.ru/download/rules/Zames_Yubileyniy_Rules.pdf; в правилах; коробка; головоломка
